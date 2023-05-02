@@ -1,4 +1,4 @@
-public class Algo2 {
+public class Algo {
 
     public boolean isCanBeEqualSizes(int[] nums){
 
